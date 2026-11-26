@@ -1,0 +1,21 @@
+# Virtuelle Python-Umgebungen
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Zugangsdaten und Umgebungsvariablen
+.env
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
